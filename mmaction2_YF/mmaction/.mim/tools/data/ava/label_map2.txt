@@ -1,0 +1,7 @@
+1: talk
+2: bow
+3: stand
+4: sit
+5: walk
+6: shaking
+7: finger_wiggling
